@@ -4,3 +4,5 @@
 * Discord: MariZinkevich#7289
 * GitHub: MariZinkevich
 * E-mail: mari.v.zinkevich@gmail.com
+## About myself:
+I want to become the best front-end developer and save the world!
