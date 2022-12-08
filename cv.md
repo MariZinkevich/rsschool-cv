@@ -16,3 +16,6 @@ function howManyDalmatians (number)  {
    return respond;
 }
 ```
+## Work experience:
+Site for the production of reinforced concrete lintels
+[Open-gbi](https://open-gbi.ru/)
