@@ -2,6 +2,7 @@
    margin: 0;
    padding: 0;
    box-sizing: border-box;
+   text-decoration: none;
 }
 body {
    font-family: 'Roboto', sans-serif;
@@ -36,4 +37,26 @@ body {
    font-weight: 700;
 }
 .header-content h2{
+}
+/*-------------------------------------------------------NAV*/
+.nav-wrapp {
+}
+.nav-container {
+   background-color: #d9d9d9;
+   
+}
+.nav-menu {
+   height: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   list-style-type: none;
+}
+.nav-menu a {
+   color: #1a1714cd;
+   font-weight: 700;
+   transition: 0.2s;
+}
+.nav-menu a:hover {
+   color: #1a1714;
 }
