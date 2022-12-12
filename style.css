@@ -5,8 +5,35 @@
 }
 body {
    font-family: 'Roboto', sans-serif;
+   background-color: #1a1714;
+   color: #d9d9d9;
 }
 .wrapper {
    max-width: 1000px;
    margin: 0 auto;
+}
+/*-------------------------------------------------------HEADER*/
+.header-wrapp {
+}
+.header-container {
+   padding: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   height: calc(100vh - 70px);
+}
+.header-img {
+   width: 300px;
+}
+.header-img img{
+   max-width: 100%;
+}
+.header-content {
+   text-align: center;
+}
+.header-content h1{
+   font-size: 50px;
+   font-weight: 700;
+}
+.header-content h2{
 }
