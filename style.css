@@ -60,3 +60,14 @@ body {
 .nav-menu a:hover {
    color: #1a1714;
 }
+/*-------------------------------------------------------MAIN*/
+.main-wrapp {
+
+}
+.main-container {
+   display: flex;
+   flex-wrap: wrap;
+}
+.m-item {
+   flex-basis: 50%;
+}
