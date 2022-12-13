@@ -17,8 +17,6 @@ body {
    margin: 0 auto;
 }
 /*-------------------------------------------------------HEADER*/
-.header-wrapp {
-}
 .header-container {
    display: flex;
    align-items: center;
