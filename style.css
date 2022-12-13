@@ -65,6 +65,7 @@ body {
 .main-wrapp {
    padding: 10px;
    border: 1px solid #d9d9d9;
+   margin-bottom: 50px;
 }
 .main-container {
    display: flex;
@@ -95,7 +96,7 @@ body {
 .main-work-experience__works a:hover{
    color: #d9d9d9;
 }
-.main-education__list {
+.main-education__list li{
    margin-left: 20px;
    padding-bottom: 10px;
 }
