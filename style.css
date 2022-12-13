@@ -107,3 +107,27 @@ body {
 .main-education__list a:hover{
    color: #d9d9d9;
 }
+/*-------------------------------------------------------FOOTER*/
+.footer-container {
+   background-color: #d9d9d9;
+   color: #1a1714;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   height: 70px;
+   font-weight: 700;
+}
+.footer-github a{
+   color: #1a1714cd;
+   transition: 0.2s;
+}
+.footer-github a:hover {
+   color: #1a1714;
+}
+.footer-logo {
+   display: flex;
+   align-items: center; 
+}
+.footer-logo img{
+   height: 50px;
+}
