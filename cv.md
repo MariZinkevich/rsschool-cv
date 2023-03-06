@@ -32,9 +32,10 @@ Site for the production of reinforced concrete lintels
 ## Education:
 * College: Petrovsky college, specialty technician-programmer
 * [Basic JavaScript Tutorial](https://code.mu/ru/javascript/book/prime/)
-* [Modern JavaScript Tutorial](https://learn.javascript.ru/)
+* [Learn.JavaScript](https://learn.javascript.ru/)
 * [Hexlet - Introduction to Git](https://ru.hexlet.io/courses/intro_to_git)
-
+* [RSS - JS / FRONT-END. STAGE 0](https://rs.school/js-stage0/)
+![Certificate RSS Stage 0](/assets/RSS_Stage_0.jpg "Сертификат RSS Stage 0")
 ===
 ## English:
 A2
