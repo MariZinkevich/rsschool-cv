@@ -37,11 +37,12 @@ function howManyDalmatians (number)  {
 * [RSS - JS / FRONT-END. STAGE 0](https://rs.school/js-stage0/)
 
 
-   [<img src="./assets/jpg/RSS_Stage_0.jpg" width="300"/>](image.png)  
+   [<img src="./assets/jpg/RSS_Stage_0.jpg" width="600"/>](image.png)  
    [Digital version of the certificate](https://rs.school/js-stage0/)  
 
-   
-===
+
+===  
+
 ## English:
 A2
 
