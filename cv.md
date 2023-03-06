@@ -25,8 +25,8 @@ function howManyDalmatians (number)  {
 
 ===
 ## Work experience:
-Site for the production of reinforced concrete lintels
-[Open-gbi](https://open-gbi.ru/)
+* Landing page 1 - [Open-gbi](https://open-gbi.ru/)
+* Landing page 2 - [Plants](https://rolling-scopes-school.github.io/marizinkevich-JSFEPRESCHOOL2022Q4/plants/#)
 
 ===
 ## Education:
@@ -35,7 +35,7 @@ Site for the production of reinforced concrete lintels
 * [Learn.JavaScript](https://learn.javascript.ru/)
 * [Hexlet - Introduction to Git](https://ru.hexlet.io/courses/intro_to_git)
 * [RSS - JS / FRONT-END. STAGE 0](https://rs.school/js-stage0/)
-![Certificate RSS Stage 0](/assets/RSS_Stage_0.jpg "Сертификат RSS Stage 0")
+![Certificate RSS Stage 0](./assets/RSS_Stage_0.jpg "Сертификат RSS Stage 0")
 ===
 ## English:
 A2
