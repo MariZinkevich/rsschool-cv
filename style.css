@@ -10,7 +10,7 @@ html {
 body {
    font-family: 'Roboto', sans-serif;
    background-color: #1a1714;
-   color: #d9d9d9; 
+   color: #d9d9d9;
 }
 .wrapper {
    max-width: 1000px;
@@ -43,7 +43,7 @@ body {
 }
 .nav-container {
    background-color: #d9d9d9;
-   
+
 }
 .nav-menu {
    display: flex;
@@ -129,7 +129,7 @@ body {
 }
 .footer-logo {
    display: flex;
-   align-items: center; 
+   align-items: center;
 }
 .footer-logo img{
    height: 50px;
