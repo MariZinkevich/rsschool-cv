@@ -1,0 +1,136 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   text-decoration: none;
+}
+html {
+   scroll-behavior: smooth;
+}
+body {
+   font-family: 'Roboto', sans-serif;
+   background-color: #1a1714;
+   color: #d9d9d9;
+}
+.wrapper {
+   max-width: 1000px;
+   margin: 0 auto;
+}
+/*-------------------------------------------------------HEADER*/
+.header-container {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   height: calc(100vh - 70px);
+   padding: 10px;
+}
+.header-img {
+   width: 300px;
+}
+.header-img img{
+   max-width: 100%;
+}
+.header-content {
+   text-align: center;
+}
+.header-content h1{
+   font-size: 50px;
+   font-weight: 700;
+}
+/*-------------------------------------------------------NAV*/
+.nav-wrapp {
+   margin-bottom: 50px;
+}
+.nav-container {
+   background-color: #d9d9d9;
+
+}
+.nav-menu {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   height: 70px;
+   list-style-type: none;
+}
+.nav-menu a {
+   color: #1a1714cd;
+   font-weight: 700;
+   transition: 0.2s;
+}
+.nav-menu a:hover {
+   color: #1a1714;
+}
+/*-------------------------------------------------------MAIN*/
+.main-wrapp {
+   padding: 10px;
+   margin-bottom: 50px;
+   border: 1px solid #d9d9d9;
+}
+.main-container {
+   display: flex;
+   flex-wrap: wrap;
+}
+.m-item {
+   flex-basis: 50%;
+}
+.m-title {
+   padding-top: 30px;
+   padding-bottom: 15px;
+   font-weight: 700;
+   text-decoration: underline;
+}
+.main-contacts__text li{
+   padding-bottom: 10px;
+   margin-left: 20px;
+}
+.main-work-experience__works li{
+   margin-left: 20px;
+   padding-bottom: 10px;
+   color: #d9d9d9;
+}
+.main-work-experience__works a{
+   color: #d9d9d9a4;
+   transition: .2s;
+}
+.main-work-experience__works a:hover{
+   color: #d9d9d9;
+}
+.main-skills li{
+   margin-left: 20px;
+   padding-bottom: 10px;
+}
+.main-education__list li{
+   margin-left: 20px;
+   padding-bottom: 10px;
+}
+.main-education__list a{
+   color: #d9d9d9a4;
+   transition: .2s;
+}
+.main-education__list a:hover{
+   color: #d9d9d9;
+}
+/*-------------------------------------------------------FOOTER*/
+.footer-container {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   height: 70px;
+   background-color: #d9d9d9;
+   color: #1a1714;
+   font-weight: 700;
+}
+.footer-github a{
+   color: #1a1714cd;
+   transition: 0.2s;
+}
+.footer-github a:hover {
+   color: #1a1714;
+}
+.footer-logo {
+   display: flex;
+   align-items: center;
+}
+.footer-logo img{
+   height: 50px;
+}
